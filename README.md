@@ -24,8 +24,13 @@
 
 
 ## 🔭 Interests
+* CSE
+> General topics of computer science and engineering.
 * Information Security
 > General hacking methods and countermeasures, cryptography, digital forensics, and some social engineering.
+* Development
+> Software(C, C++)
+> Web(Front & Back) - React.js, Node.js, etc.
 * Mathmatics
 > Complex Analysis, Algebra.
 * Stargazing
