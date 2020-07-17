@@ -29,7 +29,7 @@
 * Mathmatics
 > Complex Analysis, Algebra.
 * Stargazing
-> Almost all topic of amateur astronomy.
+> Almost all topics of amateur astronomy.
 
 
 
