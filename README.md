@@ -1,6 +1,6 @@
-## PngWnA
+# PngWnA
 
-### 🌱 Education(general)
+## 🌱 Education(general)
 * Department of Computer Science and Engineering, College of Informatics, Korea University. (2016 ~)
 > Major in Computer Science and Engineering. (First major)
 >
@@ -10,12 +10,12 @@
 * Daejeon Foreign Language High School. (2013~2015)
 > Major in Chinese language.
 
-### 🌱 Education(special)
+## 🌱 Education(special)
 * KITRI BoB(Best of the Best) 8th
 > Digital Forensic Track.
 
 
-### 👯 I'm in:
+## 👯 I'm in:
 * **KUICS**, Information Security Research Club. (2016 ~)
 * **KWEB**, Web Development Club. (2016 ~)
 > Chairman(2019-2R) Newbie Study Group Manager(2020-1R).
@@ -23,7 +23,7 @@
 > Observation Lead(2017-1R), Vice Chariman(2017-2R), Senior Advisor(2020-1R).
 
 
-### 🔭 Interests
+## 🔭 Interests
 * Information Security
 > General hacking methods and countermeasures, cryptography, digital forensics, and some social engineering.
 * Mathmatics
