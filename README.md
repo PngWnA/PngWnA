@@ -4,7 +4,7 @@
 * Department of Computer Science and Engineering, College of Informatics, Korea University. (2016 ~)
 > Major in Computer Science and Engineering. (First major)
 >
-> Major in Mathmatics. (second major)
+> Major in Mathmatics. (Second major)
 
 
 * Daejeon Foreign Language High School. (2013~2015)
