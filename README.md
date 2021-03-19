@@ -2,7 +2,7 @@
 
 ## 🌱 Education(general)
 
-* Department of Computer Science and Engineering, College of Informatics, Korea University. (2016~2020)
+* Department of Computer Science and Engineering, College of Informatics, Korea University. (2021~)
 > Major in Computer Security, Master's cource @ CCSLAB
 
 * Department of Computer Science and Engineering, College of Informatics, Korea University. (2016~2020)
